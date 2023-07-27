@@ -1,5 +1,3 @@
-## Bienvenue sur mon Github 👋
-
 ## Langages, Frameworks & Outils
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40" title="Symfony">
@@ -19,15 +17,17 @@
 </p>
 
 
-[![arnaudlagarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaudlagarde&theme=vue-dark&show_icons=true&hide_border=true)](https://github.com/ArnaudLagarde/arnaudlagarde)
+<!-- [![arnaudlagarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaudlagarde&theme=vue-dark&show_icons=true&hide_border=true)](https://github.com/ArnaudLagarde/arnaudlagarde) 
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaudlagarde&theme=vue-dark&hide_border=true)](https://github.com/ArnaudLagarde/arnaudlagarde)
 
 ### - 🔭 Je travaille actuellement comme Développeur Web : Symfony / Sylius.
 
- ## Contact
+## Contact
 
- Email : arnaud1lagarde@gmail.com
+Email : arnaud1lagarde@gmail.com
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">
   <i>(En cours de développement)</i>
@@ -35,5 +35,6 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/construction/construction-original.svg" alt="Site Web Personnel" width="40" height="40" title="Site Web Personnel">
-  <i>(Travaux en cours)</i>
+  <i>(Le portfolio sera bientôt disponible)</i>
 </p>
+
