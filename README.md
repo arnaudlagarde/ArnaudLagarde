@@ -29,8 +29,10 @@
 Email : arnaud1lagarde@gmail.com
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">
-  <i>(En cours de développement)</i>
+<a href="https://www.linkedin.com/in/arnaud-lagarde-a6a473151">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">
+    Mon LinkedIn
+  </a>
 </p>
 
 <p align="left">
