@@ -36,7 +36,9 @@ Email : arnaud1lagarde@gmail.com
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/construction/construction-original.svg" alt="Site Web Personnel" width="40" height="40" title="Site Web Personnel">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/solid/folder-open.svg" alt="Portfolio" width="40" height="40" title="Portfolio">
   <i>(Le portfolio sera bientôt disponible)</i>
 </p>
+
+
 
