@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaudlagarde&theme=vue-dark&hide_border=true)](https://github.com/ArnaudLagarde/arnaudlagarde)
 
-### - 🔭 Je travaille actuellement comme Développeur Web : Symfony / Sylius.
+### - 🔭 Je travaille actuellement comme Data Engineer anciennement Développeur Web
 
 ## Contact
 
